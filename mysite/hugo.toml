@@ -1,7 +1,0 @@
-baseURL = "https://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Project"
-
-[caches]
-  [caches.images]
-    dir = ":cacheDir/images"
