@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://JJ-Gillis23.github.io/sitemap.xml
