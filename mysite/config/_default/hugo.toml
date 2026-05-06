@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "http://JJ-Gillis23.github.io/Website-Creator"
+baseURL = "http://JJ-Gillis23.github.io/Portfolio"
 languageCode = "en"
 title = "JJ Gillis | Software Engineering Portfolio"
 
