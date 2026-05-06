@@ -5,6 +5,8 @@ colorScheme = "neon"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
 
+mainSections = ["projects", "experience"]
+
 [author]
   name = "JJ Gillis"
   headline = "Software Engineering Student"
