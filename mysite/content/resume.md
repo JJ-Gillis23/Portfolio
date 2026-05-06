@@ -15,8 +15,6 @@ Software Engineering Student — Point Loma Nazarene University
 
 📄 **[Download My Resume (PDF)](/resume.docx)**
 
-> To add your resume PDF: place your `resume.pdf` file inside the `static/` folder of your Hugo site.
-
 ---
 
 ## Education

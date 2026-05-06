@@ -1,7 +1,7 @@
 # -- Theme Options --
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "neon"
+colorScheme = "terminal"
 defaultAppearance = "dark"
 autoSwitchAppearance = false
 
