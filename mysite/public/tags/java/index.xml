@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Blowfish</title>
-    <link>http://localhost:1313/tags/java/</link>
+    <link>https://JJ-Gillis23.github.io/tags/java/</link>
     <description>Recent content in Java on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JJ Gillis</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://JJ-Gillis23.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dungeon Crawler — 2D JavaFX Game</title>
-      <link>http://localhost:1313/projects/dunegon-crawler/</link>
+      <link>https://JJ-Gillis23.github.io/projects/dunegon-crawler/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/dunegon-crawler/</guid>
+      <guid>https://JJ-Gillis23.github.io/projects/dunegon-crawler/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Contraption Zack — 2D Java Game Remake</title>
-      <link>http://localhost:1313/projects/contraption-zac/</link>
+      <link>https://JJ-Gillis23.github.io/projects/contraption-zac/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/contraption-zac/</guid>
+      <guid>https://JJ-Gillis23.github.io/projects/contraption-zac/</guid>
       <description></description>
       
     </item>
