@@ -1,25 +1,21 @@
 # -- Theme Options --
-# These options control how the theme functions and allow you to
-# customise the display of your website.
-#
-# Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "ocean"
+colorScheme = "neon"
 defaultAppearance = "dark"
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 [author]
   name = "JJ Gillis"
   headline = "Software Engineering Student"
-  bio = "I build things. Passionate about software, systems, and problem solving."
+  bio = "I build things. Passionate about software engineering, clean code, and solving hard problems."
   links = [
     { github = "https://github.com/JJ-Gillis23" },
   ]
 
 enableA11y = false
 enableSearch = true
-enableCodeCopy = false
+enableCodeCopy = true
 enableStructuredBreadcrumbs = false
 
 replyByEmail = false
@@ -42,16 +38,16 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
   layout = "profile"
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
-  cardView = false
+  showMoreLink = true
+  showMoreLinkDest = "/projects/"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false
   disableHeroImageFilter = false
@@ -62,11 +58,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = false
   layoutBackgroundBlur = true
   layoutBackgroundHeaderSpace = true
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   editAppendPath = true
@@ -75,28 +71,28 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
-  showTaxonomies = false
+  showTableOfContents = true
+  showTaxonomies = true
   showCategories = true
   showTags = true
   showCategoriesInSecondaryColor = false
   showAuthorsBadges = false
-  showWordCount = true
+  showWordCount = false
   showZenMode = false
 
 [list]
   showHero = false
   layoutBackgroundBlur = true
   layoutBackgroundHeaderSpace = true
-  showBreadcrumbs = false
-  showSummary = false
+  showBreadcrumbs = true
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
-  orderByWeight = false
-  groupByYear = true
-  cardView = false
+  showCards = true
+  orderByWeight = true
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
