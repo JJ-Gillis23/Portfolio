@@ -7,50 +7,56 @@ showWordCount: false
 showAuthor: false
 ---
 
-## JJ Gillis
-Software Engineering Student  
-📧 your@email.com | [GitHub](https://github.com/JJ-Gillis23) | [LinkedIn](https://linkedin.com/in/yourname)
+## Jeremiah Gillis
+Software Engineering Student — Point Loma Nazarene University  
+📧 jeremiahj0623@gmail.com | [GitHub](https://github.com/JJ-Gillis23)
 
 ---
 
-📄 **[Download My Resume (PDF)](/Resume.docx)**
+📄 **[Download My Resume (PDF)](/resume.docx)**
 
-> To add your actual resume PDF: place your `resume.pdf` file inside the `static/` folder of your Hugo site. The download link above will work automatically.
+> To add your resume PDF: place your `resume.pdf` file inside the `static/` folder of your Hugo site.
 
 ---
 
 ## Education
-**Bachelor of Science in Software Engineering**  
-Point Loma Nazarene University  
+**Bachelor of Science in Computer Science: Software Engineering**  
+Point Loma Nazarene University — San Diego, CA  
 Expected Graduation: December 2026  
-GPA: 3.50
+GPA: 3.5 / 4.0
 
 ---
 
 ## Skills
-**Languages:** Python, Java,C++, SQL  
-**Tools:** Git, Docker, Linux, VS Code
-**Concepts:** REST APIs, OOP, Data Structures, Agile
+**Languages:** Java, C++, Python, PHP, HTML, SQL  
+**Tools:** GitHub, MySQL, Unix, Excel, MS Word  
+**Concepts:** Data Structures & Algorithms, Software Development Cycle, OOP, Database Design  
+**Soft Skills:** Leadership, Public Speaking, Team Management, Client Communication, Adaptability
 
 ---
 
 ## Projects
 See my [Projects](/projects/) page for detailed write-ups.
 
-- **Project Name** — One line description *(Tech used)*
-- **Project Name** — One line description *(Tech used)*
-- **Project Name** — One line description *(Tech used)*
+- **Harry Potter Sorting Quiz** — PHP/HTML web app with MySQL database *(PHP, HTML, MySQL)*
+- **Contraption Zac Remake** — 2D Java game rebuild using hash maps and singletons *(Java)*
 
 ---
 
 ## Experience
 See my [Experience](/experience/) page for full details.
 
-- **Role @ Company** — Month Year – Month Year
-- **Role @ Company** — Month Year – Month Year
+- **Video Game Development Summer Research** @ PLNU — May 2026 – July 2026
+- **Teaching Assistant, CSC 2054** @ PLNU — September 2025 – December 2025
+- **Admissions Ambassador** @ PLNU — January 2025 – Present
+
+---
+
+## Volunteer & Leadership
+- **New Student Involvement Leader** — Plans and leads events for incoming freshmen, empowers small group leaders
+- **Club Volleyball President** — Manages PLNU men's club volleyball program including finances and coaching
 
 ---
 
 ## Coursework
-Data Structures & Algorithms, Operating Systems, Database Systems,
-Software Engineering, Computer Networks, Discrete Mathematics
+Data Structures & Algorithms, Software Engineering, Database Systems, Object-Oriented Programming, Unix Systems
