@@ -3,3 +3,11 @@ section.prose p {
   font-size: 2rem;
   line-height: 3rem;
 }
+/* Profile image - rotate and resize */
+img.rounded-full {
+  transform: rotate(90deg);
+  width: 300px !important;
+  height: 300px !important;
+  max-width: 300px !important;
+  max-height: 300px !important;
+}
