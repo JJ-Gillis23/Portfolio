@@ -21,7 +21,7 @@ Software Engineering Student — Point Loma Nazarene University
 **Bachelor of Science in Computer Science: Software Engineering**  
 Point Loma Nazarene University — San Diego, CA  
 Expected Graduation: December 2026  
-GPA: 3.5 / 4.0
+GPA: 3.5
 
 ---
 
@@ -38,6 +38,7 @@ See my [Projects](/projects/) page for detailed write-ups.
 
 - **Harry Potter Sorting Quiz** — PHP/HTML web app with MySQL database *(PHP, HTML, MySQL)*
 - **Contraption Zac Remake** — 2D Java game rebuild using hash maps and singletons *(Java)*
+- **Dungeon Crawler** - 2D Java Game self created using muticlass features and levels *(Java)*
 
 ---
 
