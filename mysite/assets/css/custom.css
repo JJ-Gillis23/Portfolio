@@ -1,5 +1,5 @@
 /* Homepage bio text size */
-.home .prose p {
-  font-size: 1.5rem;
-  line-height: 2rem;
+section.prose p {
+  font-size: 2rem;
+  line-height: 3rem;
 }
