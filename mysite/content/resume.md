@@ -13,7 +13,7 @@ Software Engineering Student — Point Loma Nazarene University
 
 ---
 
-📄 **[Download My Resume (PDF)](/resume.docx)**
+📄 **[Download My Resume (PDF)](/Portfolio/resume.docx)**
 
 ---
 
