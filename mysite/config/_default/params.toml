@@ -11,9 +11,6 @@ mainSections = ["projects", "experience"]
   name = "JJ Gillis"
   headline = "Software Engineering Student"
   bio = "I build things. Passionate about software engineering, clean code, and solving hard problems."
-  links = [
-    { github = "https://github.com/JJ-Gillis23" },
-  ]
 
 enableA11y = false
 enableSearch = true

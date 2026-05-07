@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m JJ Gillis 👋 on HomePage</title>
+    <link>http://localhost:1313/Portfolio/</link>
+    <description>Recent content in Hi, I&#39;m JJ Gillis 👋 on HomePage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 JJ Gillis</copyright>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Video Game Development Summer Research</title>
+      <link>http://localhost:1313/Portfolio/experience/game-dev-research/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/experience/game-dev-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dungeon Crawler — 2D JavaFX Game</title>
+      <link>http://localhost:1313/Portfolio/projects/dunegon-crawler/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/projects/dunegon-crawler/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Harry Potter Sorting Quiz</title>
+      <link>http://localhost:1313/Portfolio/projects/harry-potter-quiz/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/projects/harry-potter-quiz/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Teaching Assistant — CSC 2054 Data Structures &amp; Algorithms</title>
+      <link>http://localhost:1313/Portfolio/experience/teaching-assistant/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/experience/teaching-assistant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contraption Zack — 2D Java Game Remake</title>
+      <link>http://localhost:1313/Portfolio/projects/contraption-zac/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/projects/contraption-zac/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Admissions Ambassador</title>
+      <link>http://localhost:1313/Portfolio/experience/admissions-ambassador/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/experience/admissions-ambassador/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/Portfolio/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Portfolio/resume/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
