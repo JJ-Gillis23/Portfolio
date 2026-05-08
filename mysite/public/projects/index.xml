@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on HomePage</title>
-    <link>http://JJ-Gillis23.github.io/Portfolio/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on HomePage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JJ Gillis</copyright>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://JJ-Gillis23.github.io/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Dungeon Crawler — 2D JavaFX Game</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/projects/dunegon-crawler/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Custom Shader Programming Language</title>
+      <link>http://localhost:1313/projects/programming-language/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/projects/dunegon-crawler/</guid>
+      <guid>http://localhost:1313/projects/programming-language/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Harry Potter Sorting Quiz</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/projects/harry-potter-quiz/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <title>Dungeon Crawler — 2D JavaFX Game</title>
+      <link>http://localhost:1313/projects/dunegon-crawler/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/projects/harry-potter-quiz/</guid>
+      <guid>http://localhost:1313/projects/dunegon-crawler/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Contraption Zack — 2D Java Game Remake</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/projects/contraption-zac/</link>
+      <link>http://localhost:1313/projects/contraption-zac/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/projects/contraption-zac/</guid>
+      <guid>http://localhost:1313/projects/contraption-zac/</guid>
       <description></description>
       
     </item>

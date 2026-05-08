@@ -2,159 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HomePage</title>
-    <link>http://JJ-Gillis23.github.io/Portfolio/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on HomePage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JJ Gillis</copyright>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://JJ-Gillis23.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Game-Dev</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/game-dev/</link>
+      <link>http://localhost:1313/tags/game-dev/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/game-dev/</guid>
+      <guid>http://localhost:1313/tags/game-dev/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/research/</link>
+      <link>http://localhost:1313/tags/research/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/research/</guid>
+      <guid>http://localhost:1313/tags/research/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>University</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/university/</link>
+      <link>http://localhost:1313/tags/university/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/university/</guid>
+      <guid>http://localhost:1313/tags/university/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/c&#43;&#43;/</link>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/teaching/</link>
+      <link>http://localhost:1313/tags/teaching/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/teaching/</guid>
+      <guid>http://localhost:1313/tags/teaching/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Communication</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/communication/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <title>Compilers</title>
+      <link>http://localhost:1313/tags/compilers/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/communication/</guid>
+      <guid>http://localhost:1313/tags/compilers/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/java/</link>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming-Languages</title>
+      <link>http://localhost:1313/tags/programming-languages/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming-languages/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Communication</title>
+      <link>http://localhost:1313/tags/communication/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/java/</guid>
+      <guid>http://localhost:1313/tags/communication/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaFX</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/javafx/</link>
+      <link>http://localhost:1313/tags/javafx/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/javafx/</guid>
+      <guid>http://localhost:1313/tags/javafx/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Leadership</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/leadership/</link>
+      <link>http://localhost:1313/tags/leadership/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/leadership/</guid>
+      <guid>http://localhost:1313/tags/leadership/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OOP</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/oop/</link>
+      <link>http://localhost:1313/tags/oop/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/oop/</guid>
+      <guid>http://localhost:1313/tags/oop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Data-Structures</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/data-structures/</link>
+      <link>http://localhost:1313/tags/data-structures/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/data-structures/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/html/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/html/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>MySQL</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/mysql/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/mysql/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PHP</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/php/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/php/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/tags/web/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://JJ-Gillis23.github.io/Portfolio/tags/web/</guid>
+      <guid>http://localhost:1313/tags/data-structures/</guid>
       <description></description>
       
     </item>

@@ -1,11 +1,14 @@
 /* Homepage bio text size */
 section.prose p {
-  font-size: 2rem;
-  line-height: 3rem;
+  max-width: 800px !important;
+  width: 100% !important;
+  font-size: 1.5rem !important;
+  line-height: 2rem !important;
 }
 /* Profile image - rotate and resize */
 img.rounded-full {
   transform: rotate(90deg);
+  pointer-events: none;
   width: 300px !important;
   height: 300px !important;
   max-width: 300px !important;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web on HomePage</title>
-    <link>http://JJ-Gillis23.github.io/Portfolio/tags/web/</link>
+    <link>http://localhost:1313/tags/web/</link>
     <description>Recent content in Web on HomePage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JJ Gillis</copyright>
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://JJ-Gillis23.github.io/Portfolio/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Harry Potter Sorting Quiz</title>
-      <link>http://JJ-Gillis23.github.io/Portfolio/projects/harry-potter-quiz/</link>
+      <link>http://localhost:1313/projects/harry-potter-quiz/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://JJ-Gillis23.github.io/Portfolio/projects/harry-potter-quiz/</guid>
+      <guid>http://localhost:1313/projects/harry-potter-quiz/</guid>
       <description></description>
       
     </item>
